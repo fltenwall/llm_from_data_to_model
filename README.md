@@ -1,2 +1,9 @@
-# llm_6104
-llm_6104
+# llm_from_data_to_model
+
+data collection 
+
+data processing
+
+model training
+
+build konwledge base
